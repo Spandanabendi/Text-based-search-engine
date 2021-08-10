@@ -25,9 +25,9 @@ This project repository include below files/folders.
 
 <b>9. load_file.py :</b> Loading dataset(file4.csv) is done using thsi file.
 
-<b>10. build_df.py :</b> This pyhton file is used to generate the dictionary with document frequency(DF) of the input file.
+<b>10. build_df.py :</b> This python file is used to generate the dictionary with document frequency(DF) of the input file.
 
-<b>11. cosine_similarity.py :</b> This pyhton file is used to process a input query provided by user and provide the results that matching the query.
+<b>11. cosine_similarity.py :</b> This python file is used to process a input query provided by user and provide the results that matching the query.
 
 <b>12. preprocess_data.py :</b> This python file is used to process both input data file and input provided by user query. Following functions are included in this file.<br><br>
     1.lower case conversion<br>
